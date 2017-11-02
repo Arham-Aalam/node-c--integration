@@ -1,1 +1,2 @@
-# node-c--integration
+# node-c++-integration
+## node and c++ connectivity without addons
